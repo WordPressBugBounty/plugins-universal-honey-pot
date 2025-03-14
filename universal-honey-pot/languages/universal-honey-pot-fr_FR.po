@@ -1,0 +1,369 @@
+# Universal Honey Pot Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Universal Honey Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Webdeclic <contact@webdeclic.com>\n"
+"POT-Creation-Date: 2023-07-27 15:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Webdeclic <contact@webdeclic.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: public/assets/node_modules\n"
+"X-Poedit-SearchPathExcluded-1: public/assets/src\n"
+
+#: admin/class-settings.php:53 svn/tags/1.0.0/admin/class-settings.php:53
+#: svn/tags/1.0.1/admin/class-settings.php:53
+#: svn/tags/2.0.0/admin/class-settings.php:53
+#: svn/tags/3.0.0/admin/class-settings.php:53
+#: svn/tags/4.0.0/admin/class-settings.php:53
+#: svn/tags/5.0.0/admin/class-settings.php:53
+#: svn/tags/5.0.1/admin/class-settings.php:53
+#: svn/trunk/admin/class-settings.php:53
+msgid "Universal Honey Pot Settings"
+msgstr "Réglages de Universal Honey Pot"
+
+#: admin/class-settings.php:54 admin/templates/page-settings.php:10
+#: svn/tags/1.0.0/admin/class-settings.php:54
+#: svn/tags/1.0.0/admin/templates/page-settings.php:10
+#: svn/tags/1.0.1/admin/class-settings.php:54
+#: svn/tags/1.0.1/admin/templates/page-settings.php:10
+#: svn/tags/2.0.0/admin/class-settings.php:54
+#: svn/tags/2.0.0/admin/templates/page-settings.php:10
+#: svn/tags/3.0.0/admin/class-settings.php:54
+#: svn/tags/3.0.0/admin/templates/page-settings.php:10
+#: svn/tags/4.0.0/admin/class-settings.php:54
+#: svn/tags/4.0.0/admin/templates/page-settings.php:10
+#: svn/tags/5.0.0/admin/class-settings.php:54
+#: svn/tags/5.0.0/admin/templates/page-settings.php:10
+#: svn/tags/5.0.1/admin/class-settings.php:54
+#: svn/tags/5.0.1/admin/templates/page-settings.php:10
+#: svn/trunk/admin/class-settings.php:54
+#: svn/trunk/admin/templates/page-settings.php:10
+msgid "Universal Honey Pot"
+msgstr ""
+
+#: admin/templates/page-settings.php:14
+#: svn/tags/1.0.0/admin/templates/page-settings.php:14
+#: svn/tags/1.0.1/admin/templates/page-settings.php:14
+#: svn/tags/2.0.0/admin/templates/page-settings.php:14
+#: svn/tags/3.0.0/admin/templates/page-settings.php:14
+#: svn/tags/4.0.0/admin/templates/page-settings.php:14
+#: svn/tags/5.0.0/admin/templates/page-settings.php:14
+#: svn/tags/5.0.1/admin/templates/page-settings.php:14
+#: svn/trunk/admin/templates/page-settings.php:14
+msgid "Spam(s) blocked since installation"
+msgstr "Spam(s) bloqué(s) depuis l’installation"
+
+#: admin/templates/page-settings.php:48
+#: svn/tags/1.0.0/admin/templates/page-settings.php:48
+#: svn/tags/1.0.1/admin/templates/page-settings.php:48
+#: svn/tags/2.0.0/admin/templates/page-settings.php:48
+#: svn/tags/3.0.0/admin/templates/page-settings.php:48
+#: svn/tags/4.0.0/admin/templates/page-settings.php:48
+#: svn/tags/5.0.0/admin/templates/page-settings.php:48
+#: svn/tags/5.0.1/admin/templates/page-settings.php:48
+#: svn/trunk/admin/templates/page-settings.php:48
+msgid "Is active and protected."
+msgstr "Est actif et protégé."
+
+#: admin/templates/page-settings.php:52
+#: svn/tags/1.0.0/admin/templates/page-settings.php:52
+#: svn/tags/1.0.1/admin/templates/page-settings.php:52
+#: svn/tags/2.0.0/admin/templates/page-settings.php:52
+#: svn/tags/3.0.0/admin/templates/page-settings.php:52
+#: svn/tags/4.0.0/admin/templates/page-settings.php:52
+#: svn/tags/5.0.0/admin/templates/page-settings.php:52
+#: svn/tags/5.0.1/admin/templates/page-settings.php:52
+#: svn/trunk/admin/templates/page-settings.php:52
+msgid "Is active but not protected yet."
+msgstr "Est actif mais pas encore protégé."
+
+#: admin/templates/page-settings.php:56
+#: svn/tags/1.0.0/admin/templates/page-settings.php:56
+#: svn/tags/1.0.1/admin/templates/page-settings.php:56
+#: svn/tags/2.0.0/admin/templates/page-settings.php:56
+#: svn/tags/3.0.0/admin/templates/page-settings.php:56
+#: svn/tags/4.0.0/admin/templates/page-settings.php:56
+#: svn/tags/5.0.0/admin/templates/page-settings.php:56
+#: svn/tags/5.0.1/admin/templates/page-settings.php:56
+#: svn/trunk/admin/templates/page-settings.php:56
+msgid "Is installed but not active."
+msgstr "Est installé mais pas actif."
+
+#: admin/templates/page-settings.php:62
+#: svn/tags/1.0.0/admin/templates/page-settings.php:62
+#: svn/tags/1.0.1/admin/templates/page-settings.php:62
+#: svn/tags/2.0.0/admin/templates/page-settings.php:62
+#: svn/tags/3.0.0/admin/templates/page-settings.php:62
+#: svn/tags/4.0.0/admin/templates/page-settings.php:62
+#: svn/tags/5.0.0/admin/templates/page-settings.php:62
+#: svn/tags/5.0.1/admin/templates/page-settings.php:62
+#: svn/trunk/admin/templates/page-settings.php:62
+msgid "Is not installed."
+msgstr "N’est pas installé."
+
+#: admin/templates/page-settings.php:74
+#: svn/tags/1.0.0/admin/templates/page-settings.php:74
+#: svn/tags/1.0.1/admin/templates/page-settings.php:74
+#: svn/tags/2.0.0/admin/templates/page-settings.php:74
+#: svn/tags/3.0.0/admin/templates/page-settings.php:74
+#: svn/tags/4.0.0/admin/templates/page-settings.php:74
+#: svn/tags/5.0.0/admin/templates/page-settings.php:74
+#: svn/tags/5.0.1/admin/templates/page-settings.php:74
+#: svn/trunk/admin/templates/page-settings.php:74
+msgid "Credits"
+msgstr "Crédits"
+
+#: admin/templates/page-settings.php:76
+#: svn/tags/1.0.0/admin/templates/page-settings.php:76
+#: svn/tags/1.0.1/admin/templates/page-settings.php:76
+#: svn/tags/2.0.0/admin/templates/page-settings.php:76
+#: svn/tags/3.0.0/admin/templates/page-settings.php:76
+#: svn/tags/4.0.0/admin/templates/page-settings.php:76
+#: svn/tags/5.0.0/admin/templates/page-settings.php:76
+#: svn/tags/5.0.1/admin/templates/page-settings.php:76
+#: svn/trunk/admin/templates/page-settings.php:76
+msgid "This plugin is developed by"
+msgstr "Ce plugin est développé par"
+
+#: admin/templates/page-settings.php:78
+#: svn/tags/1.0.0/admin/templates/page-settings.php:78
+#: svn/tags/1.0.1/admin/templates/page-settings.php:78
+#: svn/tags/2.0.0/admin/templates/page-settings.php:78
+#: svn/tags/3.0.0/admin/templates/page-settings.php:78
+#: svn/tags/4.0.0/admin/templates/page-settings.php:78
+#: svn/tags/5.0.0/admin/templates/page-settings.php:78
+#: svn/tags/5.0.1/admin/templates/page-settings.php:78
+#: svn/trunk/admin/templates/page-settings.php:78
+msgid "You can support this project here:"
+msgstr "Vous pouvez soutenir ce projet ici :"
+
+#: admin/templates/page-settings.php:84
+#: svn/tags/1.0.0/admin/templates/page-settings.php:84
+#: svn/tags/1.0.1/admin/templates/page-settings.php:84
+#: svn/tags/2.0.0/admin/templates/page-settings.php:84
+#: svn/tags/3.0.0/admin/templates/page-settings.php:84
+#: svn/tags/4.0.0/admin/templates/page-settings.php:84
+#: svn/tags/5.0.0/admin/templates/page-settings.php:84
+#: svn/tags/5.0.1/admin/templates/page-settings.php:84
+#: svn/trunk/admin/templates/page-settings.php:84
+msgid "You can show all Webdeclic's plugins on "
+msgstr "Vous pouvez afficher tous les plugins de Webdeclic sur"
+
+#: admin/templates/page-settings.php:85
+#: svn/tags/1.0.0/admin/templates/page-settings.php:85
+#: svn/tags/1.0.1/admin/templates/page-settings.php:85
+#: svn/tags/2.0.0/admin/templates/page-settings.php:85
+#: svn/tags/3.0.0/admin/templates/page-settings.php:85
+#: svn/tags/4.0.0/admin/templates/page-settings.php:85
+#: svn/tags/5.0.0/admin/templates/page-settings.php:85
+#: svn/tags/5.0.1/admin/templates/page-settings.php:85
+#: svn/trunk/admin/templates/page-settings.php:85
+msgid "wordpress.org"
+msgstr ""
+
+#: includes/global-functions.php:11
+#: svn/tags/1.0.0/includes/global-functions.php:11
+#: svn/tags/1.0.1/includes/global-functions.php:11
+#: svn/tags/2.0.0/includes/global-functions.php:11
+#: svn/tags/3.0.0/includes/global-functions.php:11
+#: svn/tags/4.0.0/includes/global-functions.php:11
+#: svn/tags/5.0.0/includes/global-functions.php:11
+#: svn/tags/5.0.1/includes/global-functions.php:11
+#: svn/trunk/includes/global-functions.php:11
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/global-functions.php:15
+#: svn/tags/1.0.0/includes/global-functions.php:15
+#: svn/tags/1.0.1/includes/global-functions.php:15
+#: svn/tags/2.0.0/includes/global-functions.php:15
+#: svn/tags/3.0.0/includes/global-functions.php:15
+#: svn/tags/4.0.0/includes/global-functions.php:15
+#: svn/tags/5.0.0/includes/global-functions.php:15
+#: svn/tags/5.0.1/includes/global-functions.php:15
+#: svn/trunk/includes/global-functions.php:15
+msgid "Elementor Pro"
+msgstr ""
+
+#: includes/global-functions.php:19
+#: svn/tags/1.0.0/includes/global-functions.php:35
+#: svn/tags/1.0.1/includes/global-functions.php:35
+#: svn/tags/2.0.0/includes/global-functions.php:19
+#: svn/tags/3.0.0/includes/global-functions.php:19
+#: svn/tags/4.0.0/includes/global-functions.php:19
+#: svn/tags/5.0.0/includes/global-functions.php:19
+#: svn/tags/5.0.1/includes/global-functions.php:19
+#: svn/trunk/includes/global-functions.php:19
+msgid "Formidable Forms"
+msgstr ""
+
+#: includes/global-functions.php:23
+#: svn/tags/1.0.0/includes/global-functions.php:45
+#: svn/tags/1.0.1/includes/global-functions.php:45
+#: svn/tags/2.0.0/includes/global-functions.php:44
+#: svn/tags/3.0.0/includes/global-functions.php:23
+#: svn/tags/4.0.0/includes/global-functions.php:23
+#: svn/tags/5.0.0/includes/global-functions.php:23
+#: svn/tags/5.0.1/includes/global-functions.php:23
+#: svn/trunk/includes/global-functions.php:23
+msgid "Forminator"
+msgstr ""
+
+#: includes/global-functions.php:27
+#: svn/tags/1.0.0/includes/global-functions.php:24
+#: svn/tags/1.0.1/includes/global-functions.php:24
+#: svn/tags/2.0.0/includes/global-functions.php:28
+#: svn/tags/3.0.0/includes/global-functions.php:32
+#: svn/tags/4.0.0/includes/global-functions.php:27
+#: svn/tags/5.0.0/includes/global-functions.php:27
+#: svn/tags/5.0.1/includes/global-functions.php:27
+#: svn/trunk/includes/global-functions.php:27
+msgid "Divi"
+msgstr ""
+
+#: includes/global-functions.php:32
+#: svn/tags/1.0.0/includes/global-functions.php:19
+#: svn/tags/1.0.1/includes/global-functions.php:19
+#: svn/tags/2.0.0/includes/global-functions.php:23
+#: svn/tags/3.0.0/includes/global-functions.php:27
+#: svn/tags/4.0.0/includes/global-functions.php:32
+#: svn/tags/5.0.0/includes/global-functions.php:32
+#: svn/tags/5.0.1/includes/global-functions.php:32
+#: svn/trunk/includes/global-functions.php:32
+msgid "WPForms"
+msgstr ""
+
+#: includes/global-functions.php:36
+#: svn/tags/1.0.0/includes/global-functions.php:40
+#: svn/tags/1.0.1/includes/global-functions.php:40
+#: svn/tags/2.0.0/includes/global-functions.php:39
+#: svn/tags/3.0.0/includes/global-functions.php:43
+#: svn/tags/4.0.0/includes/global-functions.php:42
+#: svn/tags/5.0.0/includes/global-functions.php:36
+#: svn/tags/5.0.1/includes/global-functions.php:36
+#: svn/trunk/includes/global-functions.php:36
+msgid "Fluent Form"
+msgstr ""
+
+#: includes/global-functions.php:41
+#: svn/tags/1.0.0/includes/global-functions.php:50
+#: svn/tags/1.0.1/includes/global-functions.php:50
+#: svn/tags/2.0.0/includes/global-functions.php:49
+#: svn/tags/3.0.0/includes/global-functions.php:48
+#: svn/tags/4.0.0/includes/global-functions.php:47
+#: svn/tags/5.0.0/includes/global-functions.php:41
+#: svn/tags/5.0.1/includes/global-functions.php:41
+#: svn/trunk/includes/global-functions.php:41
+msgid "Jetpack"
+msgstr ""
+
+#: includes/global-functions.php:46
+#: svn/tags/5.0.0/includes/global-functions.php:46
+#: svn/tags/5.0.1/includes/global-functions.php:46
+#: svn/trunk/includes/global-functions.php:46
+msgid "Gravity Forms"
+msgstr ""
+
+#: includes/global-functions.php:51
+#: svn/tags/5.0.0/includes/global-functions.php:51
+#: svn/tags/5.0.1/includes/global-functions.php:51
+#: svn/trunk/includes/global-functions.php:51
+msgid "Everest Forms"
+msgstr ""
+
+#: includes/global-functions.php:69
+#: svn/tags/1.0.0/includes/global-functions.php:68
+#: svn/tags/1.0.1/includes/global-functions.php:68
+#: svn/tags/2.0.0/includes/global-functions.php:67
+#: svn/tags/3.0.0/includes/global-functions.php:66
+#: svn/tags/4.0.0/includes/global-functions.php:65
+#: svn/tags/5.0.0/includes/global-functions.php:69
+#: svn/tags/5.0.1/includes/global-functions.php:69
+#: svn/trunk/includes/global-functions.php:69
+msgctxt "label"
+msgid "Website"
+msgstr ""
+
+#: includes/global-functions.php:73
+#: svn/tags/1.0.0/includes/global-functions.php:72
+#: svn/tags/1.0.1/includes/global-functions.php:72
+#: svn/tags/2.0.0/includes/global-functions.php:71
+#: svn/tags/3.0.0/includes/global-functions.php:70
+#: svn/tags/4.0.0/includes/global-functions.php:69
+#: svn/tags/5.0.0/includes/global-functions.php:73
+#: svn/tags/5.0.1/includes/global-functions.php:73
+#: svn/trunk/includes/global-functions.php:73
+msgctxt "label"
+msgid "First Name"
+msgstr ""
+
+#: includes/global-functions.php:77
+#: svn/tags/1.0.0/includes/global-functions.php:76
+#: svn/tags/1.0.1/includes/global-functions.php:76
+#: svn/tags/2.0.0/includes/global-functions.php:75
+#: svn/tags/3.0.0/includes/global-functions.php:74
+#: svn/tags/4.0.0/includes/global-functions.php:73
+#: svn/tags/5.0.0/includes/global-functions.php:77
+#: svn/tags/5.0.1/includes/global-functions.php:77
+#: svn/trunk/includes/global-functions.php:77
+msgctxt "label"
+msgid "Last Name"
+msgstr ""
+
+#: includes/global-functions.php:81
+#: svn/tags/1.0.0/includes/global-functions.php:80
+#: svn/tags/1.0.1/includes/global-functions.php:80
+#: svn/tags/2.0.0/includes/global-functions.php:79
+#: svn/tags/3.0.0/includes/global-functions.php:78
+#: svn/tags/4.0.0/includes/global-functions.php:77
+#: svn/tags/5.0.0/includes/global-functions.php:81
+#: svn/tags/5.0.1/includes/global-functions.php:81
+#: svn/trunk/includes/global-functions.php:81
+msgctxt "label"
+msgid "Email"
+msgstr ""
+
+#: public/class-formidable-forms.php:65 public/class-forminator.php:65
+#: svn/tags/2.0.0/public/class-formidable-forms.php:79
+#: svn/tags/3.0.0/public/class-formidable-forms.php:79
+#: svn/tags/3.0.0/public/class-forminator.php:79
+#: svn/tags/4.0.0/public/class-formidable-forms.php:65
+#: svn/tags/4.0.0/public/class-forminator.php:65
+#: svn/tags/5.0.0/public/class-formidable-forms.php:65
+#: svn/tags/5.0.0/public/class-forminator.php:65
+#: svn/tags/5.0.1/public/class-formidable-forms.php:65
+#: svn/tags/5.0.1/public/class-forminator.php:65
+#: svn/trunk/public/class-formidable-forms.php:65
+#: svn/trunk/public/class-forminator.php:65
+msgid "It looks like you are a spammer"
+msgstr "Il semble que vous soyez un spammeur"
+
+#: public/class-wpforms.php:64 svn/tags/5.0.0/public/class-wpforms.php:64
+#: svn/tags/5.0.1/public/class-wpforms.php:64
+#: svn/trunk/public/class-wpforms.php:64
+msgid "You are a spammer !"
+msgstr "Vous êtes un spammeur !"
+
+#: svn/tags/1.0.0/includes/global-functions.php:30
+#: svn/tags/1.0.1/includes/global-functions.php:30
+#: svn/tags/2.0.0/includes/global-functions.php:34
+#: svn/tags/3.0.0/includes/global-functions.php:38
+#: svn/tags/4.0.0/includes/global-functions.php:37
+msgid "Ninja Forms"
+msgstr ""
