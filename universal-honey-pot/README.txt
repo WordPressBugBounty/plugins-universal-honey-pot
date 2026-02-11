@@ -2,7 +2,7 @@
 Contributors: ludwigyou
 Tags: spam protection, forms, security, honey pot, anti-spam, contact form 7, elementor pro, form plugins
 Requires at least: WordPress 4.0.0
-Tested up to: WordPress 6.5.4
+Tested up to: 6.8.3
 Requires PHP: 7.4
 Stable tag: 6.0.0
 License: GPLv2 or later
